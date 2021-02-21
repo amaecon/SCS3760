@@ -1,2 +1,2 @@
 # SCS3760
-#Testing/learning how to use Git
+Testing/learning how to use Git
